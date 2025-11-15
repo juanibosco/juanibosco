@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Hi! I'm Juani Bosco. CEO & Software Engineer at Webuuq — a company focused on building custom software and transforming business processes through technology and innovation.
+I’m passionate about designing scalable, secure, and efficient systems that solve real-world problems and empower teams to grow through automation and smart architecture. 🚀
+
+## ⚡ Fun fact
+
+I’m also a musician 🎹 and play keyboards in a band!
+When I’m not coding, I teach computer science and programming at a pre-university school — helping students understand how technology shapes the world.
 
 
 ## 🌐 Socials:
